@@ -1,0 +1,17 @@
+{
+    "short_name": "Pagina1",
+    "name": "Creando Pagina1",
+    "icons":[
+        {
+            "src": "images/icon-980x528.jpg",
+            "sizes": "980x528",
+            "type": "image/jpg"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "93291E",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "dc143c",
+    "description": "Fullmetal Alchemist"
+}
